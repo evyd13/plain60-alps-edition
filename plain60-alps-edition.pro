@@ -1,4 +1,4 @@
-update=15-7-2020 07:44:36
+update=15-7-2020 07:54:35
 version=1
 last_client=kicad
 [general]
@@ -121,7 +121,7 @@ FabTextSizeV=1
 FabTextSizeH=1
 FabTextSizeThickness=0.15
 FabTextItalic=0
-FabTextUpright=0
+FabTextUpright=1
 OthersLineWidth=0.09999999999999999
 OthersTextSizeV=1
 OthersTextSizeH=1
