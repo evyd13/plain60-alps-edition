@@ -1,6 +1,6 @@
-# Plain60 Alps Edition rev2
+# Plain60 Alps Edition rev2.1
 
-![Plain60 Alps Edition PCB](https://i.imgur.com/1GFYqYb.png)
+![Plain60 Alps Edition PCB](https://i.imgur.com/aeN9Ywx.png)
 This 60% alps PCB is designed to support as little layouts as possible without limiting usability for most users.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
@@ -37,9 +37,10 @@ Amount is per PCB, multiply as needed.
 | C261942     | Fuse          |       | 0805     | 1      |
 | C165948     | Connector     |       | SMD/THT  | 1      |
 | C103904     | Resistor      | 10K   | 0805     | 2      |
-| C147798     | Resistor      | 5.1K  | 0805     | 2      |
+| C212411     | Resistor      | 5.1K  | 0805     | 2      |
 | C325772     | Resistor      | 22    | 0805     | 2      |
 | C44854      | MCU           | 32U4  | QFP-44   | 1      |
 | C7519       | ESD chip      |       | SOT23-6  | 1      |
 | C341521     | Resonator     | 16MHz | SMD      | 1      |
 | C92584      | Switch        |       | SMD      | 1      |
+| C160404     | Optional JST  |       | SMD      | 1      |
