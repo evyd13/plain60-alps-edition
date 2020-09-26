@@ -1,4 +1,4 @@
-# Plain60 Alps Edition rev2.1
+# Plain60 Alps Edition rev2.2
 
 ![Plain60 Alps Edition PCB](https://i.imgur.com/2Pto1xa.png)
 This 60% alps PCB is designed to support as little layouts as possible without limiting usability for most users.
