@@ -1,6 +1,6 @@
 # Plain60 Alps Edition rev2.1
 
-![Plain60 Alps Edition PCB](https://i.imgur.com/aeN9Ywx.png)
+![Plain60 Alps Edition PCB](https://i.imgur.com/2Pto1xa.png)
 This 60% alps PCB is designed to support as little layouts as possible without limiting usability for most users.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
